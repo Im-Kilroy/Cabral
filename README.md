@@ -16,6 +16,8 @@ In this software, you can select **multiple locations** and calculate a route th
 
 In addition to Simulated Annealing, I implemented the **A\* (A-star) algorithm** to find the best route between two points. A\* is a heuristic pathfinding and graph-search algorithm that can be viewed as an extension of Dijkstra's algorithm: when the heuristic is set to zero, A\* behaves like Dijkstra's algorithm. By using an appropriate heuristic, A\* can search for a low-cost path more efficiently.
 
+<br>
+<br>
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1Jl1Qc08TFaeoqZFceq6ypMS9XiwwcwAY" width="400">
