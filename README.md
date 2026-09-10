@@ -1,5 +1,4 @@
-# CABRAL Project
-
+# ⛵⚓ CABRAL Project
 ## Resume
 
 This project idea came to me while I was working for a small business whose main activity involved transportation. They wanted to determine the best routes for their operations, considering factors such as **fuel consumption, travel time, and, most importantly, overall cost**.
@@ -10,7 +9,7 @@ There are several approaches to solving the TSP. For this project, I chose **Sim
 
 The name <b>CABRAL</b> is derived from **Pedro Álvares Cabral**, the Portuguese explorer who commanded the fleet that reached the coast of Brazil in **1500**, making him one of the most important figures associated with the beginning of Portuguese exploration and colonization in Brazil.
 
-## Software Use
+## Features 
 
 In this software, you can select **multiple locations** and calculate a route that visits all of them, following the general idea of the TSP. The program also allows specific parameters to be configured in order to influence the optimization process.
 
